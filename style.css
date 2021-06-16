@@ -1,0 +1,39 @@
+.header {
+    color: #fd508c;
+    background-color: #ECE564;
+}
+
+body {
+    background-color: #7802CD;
+}
+
+#wo {
+    font-weight: bold;
+    color: #7802CD;
+    background-color: #fd508c;
+}
+
+#name {
+    color: #ECE564;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#band {
+color: #7802CD;
+background-color: #fd508c;
+}
+
+#hh {
+color: #ECE564;
+font-style: italic;
+}
+
+.anders {
+color: #7802CD;
+background-color: #fd508c
+}
+
+p {
+    color: #fd508c;
+}
