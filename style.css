@@ -1,10 +1,7 @@
 .header {
     color: #fd508c;
     background-color: #ECE564;
-}
-
-body {
-    background-color: #7802CD;
+    border-radius: 5px;
 }
 
 #wo {
@@ -22,18 +19,53 @@ body {
 #band {
 color: #7802CD;
 background-color: #fd508c;
+border-radius: 5px;
 }
 
-#hh {
-color: #ECE564;
-font-style: italic;
-}
-
-.anders {
-color: #7802CD;
-background-color: #fd508c
+.anders:hover {
+    color: #7802CD;
+    background-color: #fd508c
 }
 
 p {
     color: #fd508c;
+}
+
+a:hover {
+    color: #ECE564;
+    background-color: #7802CD;
+}
+
+.box {
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    display: inline-block;
+    color: #ffffff;
+    background-color: #fd508c;
+    font-weight: bolder;
+}
+
+.box:hover {
+    color: #ECE564;
+    text-align: center;
+    background-color: #7802CD;
+}
+
+#box5:hover {
+    background-color: #ECE564;
+    color: #7802CD;
+}
+
+.div1:hover {
+    background-color: #7802CD;
+    color: #ECE564;
+    font-style: italic;
+}
+
+#wikibeatles {
+    color: #fd508c;
+    background-color: #ECE564;
+    border-radius: 5px;
+    font-weight: bolder;  
 }
